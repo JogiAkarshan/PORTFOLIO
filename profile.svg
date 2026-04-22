@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" fill="none">
+  <rect width="320" height="320" rx="24" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="320" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a1a1e"/>
+      <stop offset="1" stop-color="#0f0f12"/>
+    </linearGradient>
+  </defs>
+  <text x="160" y="188" text-anchor="middle" fill="#E8E8ED" font-family="Inter, system-ui, sans-serif" font-size="88" font-weight="700" letter-spacing="-2">AJ</text>
+  <text x="160" y="230" text-anchor="middle" fill="#7C7C8A" font-family="Inter, system-ui, sans-serif" font-size="15" font-weight="500" letter-spacing="0.12em">PORTRAIT</text>
+</svg>
