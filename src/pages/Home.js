@@ -35,7 +35,7 @@ function Home() {
         <div className="hero__portrait">
           <div className="hero__portrait-frame">
             <img
-              src={process.env.PUBLIC_URL + "/profile.svg"}
+              src={process.env.PUBLIC_URL + "/profile-photo.png"}
               alt="Akarshan Jogi"
               className="hero__img"
               width={180}

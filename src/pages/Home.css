@@ -66,6 +66,7 @@
   height: 160px;
   border-radius: 18px;
   object-fit: cover;
+  object-position: center 22%;
   background: var(--bg-elevated);
 }
 
